@@ -41,3 +41,5 @@ Caffeinating now, to close out of this program press 'Control' & 'Z'...
 ===============================================================================
 """
 
+caffeinate -d 
+
