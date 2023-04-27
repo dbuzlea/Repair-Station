@@ -174,7 +174,7 @@ Dear Rachel,
 elif [[ "$NAME" == "C" || "$NAME" == "c" || "$NAME" == "C Andrews" || "$NAME" == "c andrews" || "$NAME" == "Cee" || "$NAME" == "cee" || "$NAME" == "Cee Andrews" || "$NAME" == "cee andrews" ]];
 then
 	echo """
-Dear Cee, 
+Dear C, 
 
 	Some Text here...
 
@@ -215,7 +215,15 @@ then
 	echo """
 Dear Jeff, 
 
-	Some Text here...
+	Although it may seem like we never got along in the repair room, or that we both never
+	agreed on much, the one thing that I think we both can agree on is our love for what this company 
+	stands for. A culture of open-mindedness, full of passionate team members from all walks of the earth,
+	who wont accept the world for what it is and instead challenge the status quo. One of the most prominent
+	memories I have in the GR is our conversations, however heated or frustrating they may have seemed, they 
+	always have challenged my way of thinking and in some cases have checked my logic and ego. One of my main
+	philosophies in life is constant growth in my day to day interactions. I like to think that our conversations
+	have lead to personal growth for the both of us. I hope we keep in touch, and the next time you hear 'If I Can 
+	Turn Back Time' by Cher,or any ColdPlay song, you think of me! 
 
 
 		Yours truly, 
@@ -324,29 +332,43 @@ Dear Mark,
 			Timmy Turner (A.K.A Daniel 🧢)
 
 		"""
-elif [[ "$NAME" == "Davis" || "$NAME" == "davis" || "$NAME" == "Davis Baker" || "$NAME" == "davis baker" ]];
-then	
-	echo """
-Dear Davis, 
-
-	Some Text here...
-
-
-		Yours truly, 
-			Timmy Turner (A.K.A Daniel 🧢)
-
-		"""
 elif [[ "$NAME" == "Reese" || "$NAME" == "reese" || "$NAME" == "Reese Fagan" || "$NAME" == "reese fagan" || "$NAME" == "Reeses-pieces" || "$NAME" == "reeses-pieces" || "$NAME" == "Reeeessh" ]];
 then	
 	echo """
-Dear Reese, 
+Reeeeeeeeeeeeeeeeeeeeeeeeeeeeese!
 
-	Some Text here...
+	I don't know how im gonna top that Christmas card that I made for you so here is a poem I wrote: 
+	"""
 
+	sleep 5
 
+	echo """
+		Roses are red,
+		"""
+
+	sleep 3
+
+	echo """
+		violets are blue.
+		"""
+
+sleep 4
+
+	echo """
+		I am sad that I'm leaving,
+		"""
+
+sleep 3
+
+	echo """
+		so are you.
+		"""
+
+sleep 3
+
+	echo """	
 		Yours truly, 
 			Timmy Turner (A.K.A Daniel 🧢)
-
 		"""
 elif [[ "$NAME" == "Tyler" || "$NAME" == "tyler" || "$NAME" == "Tyler Martinez" || "$NAME" == "tyler martinez" ]];
 then	
@@ -849,17 +871,6 @@ PROGRAM ENDED. TO RUN IT AGAIN PRESS THE 'UP' ARROW, THEN HIT 'RETURN'.
 
 	""" 
 echo " ================================================================================"
-
-
-
-
-
-
-
-
-
-
-
 
 
 
