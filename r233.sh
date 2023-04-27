@@ -152,7 +152,10 @@ then
 	echo """
 Dear JJ, 
 
-	Some Text here...
+	It was truly a pleasure to get to work with you and learn from you. If I am ever in a situation where I'd
+	need to jerry rig something, I have some of your skills to fall back on. Thanks for making work fun and believing
+	in my abilities. A lot of my confidence is owed to your mentorship and wisdom over these past years. Let's keep
+	in touch! 
 
 
 		Yours truly, 
@@ -272,7 +275,7 @@ Dear Raf--I mean Elias!,
 elif [[ "$NAME" == "Bruce" || "$NAME" == "bruce" || "$NAME" == "Brucey" || "$NAME" == "brucey" || "$NAME" == "Bruce Brucculeri" || "$NAME" == "bruce brucculeri" || "$NAME" == "Josh" || "$NAME" == "josh" || "$NAME" == "Josh Brucculeri" || "$NAME" == "josh brucculeri" ]];
 then	
 	echo """
-Dear Bruce, 
+Dear Brucey, 
 
 	Some Text here...
 
@@ -375,10 +378,14 @@ then
 	echo """
 Dear Tyler, 
 
-	Some Text here...
+	I hope by this time that I am writing this you have realized that Olive Garden is not authentic Italian 
+	food and have found a better Italian restaurant. With that being said, I will miss working alongside one of my 
+	core buddies. If you are ever in the repair room and miss the 'Olive Garden' vibe, feel free to play any
+	of my jazz or oldies public playlist. 
 
 
-		Yours truly, 
+
+		Ciao! 
 			Timmy Turner (A.K.A Daniel 🧢)
 
 		"""
@@ -528,7 +535,8 @@ then
 	echo """
 Dear Mike (Martinez), 
 
-	Some Text here...
+	By the time I have written this message (04/27/2023 01:06:04) you have still unsuccessfully made
+	a bicyle kick goal. Should you choose to give it a shot, you know where to find me!
 
 
 		Yours truly, 
@@ -720,10 +728,10 @@ then
 	echo """
 Dear Ryan, 
 
-	Some Text here...
+	You're doing a great job man.
 
 
-		Yours truly, 
+		Love, 
 			Timmy Turner (A.K.A Daniel 🧢)
 
 		"""
@@ -744,8 +752,9 @@ then
 	echo """
 Dear Owen, 
 
-	Some Text here...
-
+	I'll never forget the time when you slide tackled my ass to the ground during your debut of Soccer
+	Sunday. From that point on, I knew we were going to be great teammates and opponents in the game. Thanks for
+	the memories on and off the field!
 
 		Yours truly, 
 			Timmy Turner (A.K.A Daniel 🧢)
@@ -780,10 +789,11 @@ then
 	echo """
 Dear Joel, 
 
-	Some Text here...
+	I hope I one day develop your charismatic personaltiy and your relatable humor. I will miss
+	working with you and your impersonations of difficult customers. 
 
 
-		Yours truly, 
+		Cheers! 
 			Timmy Turner (A.K.A Daniel 🧢)
 
 		"""
