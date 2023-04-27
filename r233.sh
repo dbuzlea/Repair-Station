@@ -371,8 +371,14 @@ sleep 3
 
 	echo """	
 		Yours truly, 
-			Timmy Turner (A.K.A Daniel 🧢)
+			Timmy Turner (A.K.A Daniel 🧢)	
 		"""
+
+sleep 3
+
+	echo """	
+		P.S. This message took the most time and troubleshooting to code! 😬
+		"""		
 elif [[ "$NAME" == "Tyler" || "$NAME" == "tyler" || "$NAME" == "Tyler Martinez" || "$NAME" == "tyler martinez" ]];
 then	
 	echo """
