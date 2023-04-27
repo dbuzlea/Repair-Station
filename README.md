@@ -2,7 +2,7 @@ Instructions to Run the Script:
 
 - Open Terminal 
 - Type 'cd Repair\ Station' and hit return.
-- Type './calibration.sh' and hit return. (if the script doesn't run type 'bash calibration.sh'. 
+- Type './<SCRIPT_NAME>.sh' and hit return. (if the script doesn't run type 'bash <SCRIPT_NAME>.sh'. 
 
 To close out the program:
 - Press 'Control' & 'Z' 
